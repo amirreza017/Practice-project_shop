@@ -3,60 +3,70 @@
      "products": "Bacon",
      "desc": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
      "image": "https://loremflickr.com/640/480/cats",
-     "id": "1"
+     "id": "1",
+     "price": "1500"
     },
     {
      "products": "Computer",
      "desc": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
      "image": "https://loremflickr.com/640/480/cats",
-     "id": "2"
+     "id": "2",
+     "price": "1000"
     },
     {
      "products": "Pants",
      "desc": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
      "image": "https://loremflickr.com/640/480/cats",
-     "id": "3"
+     "id": "3",
+     "price": "500"
     },
     {
      "products": "Towels",
      "desc": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
      "image": "https://loremflickr.com/640/480/cats",
-     "id": "4"
+     "id": "4",
+     "price": "2000"
     },
     {
      "products": "Pants",
      "desc": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
      "image": "https://loremflickr.com/640/480/cats",
-     "id": "5"
+     "id": "5",
+     "price": "100"
     },
     {
      "products": "Hat",
      "desc": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
      "image": "https://loremflickr.com/640/480/cats",
-     "id": "6"
+     "id": "6",
+     "price": "300"
     },
     {
      "products": "Table",
      "desc": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
      "image": "https://loremflickr.com/640/480/cats",
-     "id": "7"
+     "id": "7",
+     "price": "900"
     },
     {
      "products": "Chair",
      "desc": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
      "image": "https://loremflickr.com/640/480/cats",
-     "id": "8"
+     "id": "8",
+     "price": "150"
     },
     {
      "products": "Salad",
      "desc": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
      "image": "https://loremflickr.com/640/480/cats",
-     "id": "9"
+     "id": "9",
+     "price": "700"
     },
     {
      "products": "Computer",
      "desc": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
      "image": "https://loremflickr.com/640/480/cats",
-     "id": "10"
+     "id": "10",
+     "price": "500"
     }
    ]

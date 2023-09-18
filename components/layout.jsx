@@ -2,8 +2,12 @@ import React from 'react';
 import { css } from '@emotion/react';
 import Link from 'next/link';
 import { FaShoppingCart } from 'react-icons/fa';
+import { useSelector } from 'react-redux';
 
 function Layout() {
+    const cartItems = useSelector((state) => state.cartReducer.cartItems);
+
+
     const ulClass = css`
     list-style: none;
     display: flex;
@@ -57,10 +61,10 @@ function Layout() {
                         <Link href="/products" css={link}> Product Item </Link>
                     </li>
                 </ul>
-                <a href="/" css={cartClass}>
-                    <div css={countCartClass}>0</div>
+                <Link href="/cart" css={cartClass}>
+                    <div css={countCartClass}>{cartItems.length}</div>
                     <FaShoppingCart />
-                </a>
+                </Link>
             </nav>
         </header>
     );
